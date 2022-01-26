@@ -1,6 +1,6 @@
 # Countries Table
 
-[Editar en StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-zbodnw)
+[Editar en StackBlitz ⚡️](https://stackblitz.com/edit/countries-table?file=index.html)
 
 [Ver en accion](https://countries-table.stackblitz.io)
 
